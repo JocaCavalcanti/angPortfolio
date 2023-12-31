@@ -39,30 +39,16 @@ export class ProjectsComponent {
       ],
     },
     {
-      src: 'assets/img/projects/vfull.png',
+      src: 'assets/img/projects/AtvM2.png',
       alt: '',
-      title: 'Vida FullStack',
+      title: 'Clinica AtivaMente',
       width: '100px',
       height: '51px',
-      description: '<p>Esplore o fascinante mundo do desenvolvimento web do Blog dedicado a Front End</p>',
+      description: '<p>Site desenvolvido para um psicólgo, para melhor administração de clientes e consultas</p>',
       links: [
         {
-          name: 'Conheça o Blog',
-          href: 'https://vidafullstack.com.br',
-        },
-      ],
-    },
-    {
-      src: 'assets/img/projects/vfull.png',
-      alt: '',
-      title: 'Vida FullStack',
-      width: '100px',
-      height: '51px',
-      description: '<p>Esplore o fascinante mundo do desenvolvimento web do Blog dedicado a Front End</p>',
-      links: [
-        {
-          name: 'Conheça o Blog',
-          href: 'https://vidafullstack.com.br',
+          name: 'Conheça a clinica',
+          href: 'https://clinica-ativamente.vercel.app',
         },
       ],
     },
